@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class KeeptrackAppApplication {
+public class KeepTrackApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(KeeptrackAppApplication.class, args);
+		SpringApplication.run(KeepTrackApplication.class, args);
 	}
 
 }
